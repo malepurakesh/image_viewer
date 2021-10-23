@@ -10,7 +10,7 @@ Steps:
 3. The application will start displaying the images.
 4. Using arrow keys change the images.
 
-The application can work on both the platforms (Ubuntu & Windows)
+The application source can work on both the platforms (Ubuntu & Windows)
 
 The application binary will be generated using cmake files.
 
